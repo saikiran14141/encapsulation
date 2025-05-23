@@ -87,6 +87,7 @@ public static void main(String[] args) {
 	System.out.println("----------------------------");
 	c.swipeCard(5000);
 	c.makePayment(1000);
+	c.applyInterest();
 }
 }
 
